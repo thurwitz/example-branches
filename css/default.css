@@ -1,0 +1,15 @@
+body{
+    font-size: 16; /*Example syntax error*/
+    color: #000000;
+}
+
+h1,h2,h3,h4,h5, /*Example syntax error*/
+{
+    font-weight: bold;
+    text-align: center;
+    color: #333333;
+}
+
+p{
+    font-size: 1.2em;
+}
