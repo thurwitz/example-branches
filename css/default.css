@@ -1,5 +1,5 @@
 body{
-    font-size: 16; /*Example syntax error*/
+    font-size: 22; /*Example syntax error*/
     color: #000000;
 }
 
@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5, /*Example syntax error*/
 }
 
 p{
-    font-size: 1.2em;
+    font-size: 1.9em;
 }
 
 code{
